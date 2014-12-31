@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI (project) 5th semStr (S.W ENG)", "GUI (project) 5th semStr (S.W ENG)\GUI (project) 5th semStr (S.W ENG).csproj", "{53798FB0-F5A7-475E-8864-AF5BAEE485F1}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://asadali.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = GUI\u0020(project)\u00205th\u0020semStr\u0020(S.W\u0020ENG)\\GUI\u0020(project)\u00205th\u0020semStr\u0020(S.W\u0020ENG).csproj
+		SccProjectName1 = GUI\u0020(project)\u00205th\u0020semStr\u0020(S.W\u0020ENG)
+		SccLocalPath1 = GUI\u0020(project)\u00205th\u0020semStr\u0020(S.W\u0020ENG)
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53798FB0-F5A7-475E-8864-AF5BAEE485F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53798FB0-F5A7-475E-8864-AF5BAEE485F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53798FB0-F5A7-475E-8864-AF5BAEE485F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53798FB0-F5A7-475E-8864-AF5BAEE485F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
